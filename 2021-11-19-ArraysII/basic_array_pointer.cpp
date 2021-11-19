@@ -1,0 +1,1 @@
+/home/live/repos/2021-II-Prog/2021-11-19-ArraysII/basic_array_pointer.cpp
